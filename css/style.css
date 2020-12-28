@@ -1,0 +1,40 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+    background-image: url(https://st3.depositphotos.com/24424652/36595/v/950/depositphotos_365953768-stock-illustration-outline-doodle-hobbies-seamless-pattern.jpg);
+}
+
+#bookdesc {
+    display: none;
+}
+
+#gamedesc {
+    display: none;
+}
+
+#musicdesc {
+    display: none;
+}
+
+#books {
+    background-image: url(https://drive.google.com/uc?id=1zUI6DAu0TdCdLwSMsvk3vpxZe2fSC8VE);
+}
+
+#games {
+    background-image: url(https://drive.google.com/uc?id=1jyg0XaVaUjy5vQSgxZ6VQZZJCm4ZpE33);
+}
+
+.carousel {
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+
+#music {
+    background-image: url(https://drive.google.com/uc?id=1eRNmP1yKzl4jJsqz1YND1TPgnKz27cmg);
+}
+
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/vector-hobby-pattern-hobby-seamless-background-vector-illustration-vector-hobby-pattern-hobby-seamless-background-113988843.jpg);
+}

@@ -4,19 +4,24 @@
     background-color: #e9ecef;
     border-radius: 0.3rem;
 }
-#bookdesc{
+
+#bookdesc {
     display: none;
 }
-#gamedesc{
+
+#gamedesc {
     display: none;
 }
-#books{
+
+#books {
     background-image: url(https://drive.google.com/uc?id=1zUI6DAu0TdCdLwSMsvk3vpxZe2fSC8VE);
 }
-#games{
-    background-image: url(https://t3.ftcdn.net/jpg/03/23/88/08/360_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg);
+
+#games {
+    background-image: url(img/gamebg.jpg);
 }
-.carousel{
+
+.carousel {
     padding: 10px;
     border-bottom: 2px solid black;
 }

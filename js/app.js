@@ -5,4 +5,7 @@ $(document).ready(function(){
     $("#games").click(function(){
         $("#gamedesc").slideToggle("slow");
     });
+    $("#music").click(function(){
+        $("#musicdesc").slideToggle("slow");
+    });
 });
